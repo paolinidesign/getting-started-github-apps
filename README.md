@@ -16,7 +16,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 # Table of Contents.
 
-- [Major Companies](#major-companies)
+- [Major Companies](#major-company)
 - [Browser-Based](#user-content-browser-based)
   - [Boardgame](#user-content-boardgame)
   - [Arcade](#user-content-arcade)
