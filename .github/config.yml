@@ -16,6 +16,7 @@ requestInfoReplyComment: >
 
 # *OPTIONAL* default titles to check against for lack of descriptiveness
 # MUST BE ALL LOWERCASE
+# test pull request
 requestInfoDefaultTitles:
   - update readme.md
   - updates
